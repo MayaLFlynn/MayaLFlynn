@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayaLFlynn
-- 👀 I’m interested in how technology and the environment interact
-- 🌱 I’m currently studying Computer Science and Mathematics at Grinnell College
+- 👀 I’m interested in accessibilty, understanding and communicating data, and the environment
+- 🌱 I’m currently double majoring in Computer Science and Mathematics at Grinnell College
 - 📫 How to reach me: flynnmay@grinnell.edu
 
 <!---
